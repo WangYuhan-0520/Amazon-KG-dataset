@@ -1,3 +1,4 @@
+# Amazon-KG dataset
 This dataset provides information related to Amazon products with Dbpedia for cross-domain recommendation and currently includes two domains of Movie_and_TV and Books. This dataset consists of four parts as follows:
 * `items`
     * items file.
